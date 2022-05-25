@@ -7,8 +7,8 @@ import GeoJSON from 'ol/format/GeoJSON';
 import { features } from './features';
 import { transform } from 'ol/proj';
 
-// Note! Add api-key to ./data/style.json
-import featuresStyle from './data/style.json';
+// Note! Add api-key to ./style.json
+import featuresStyle from './style.json';
 
 // Note! proxy with credentials is required to access https://sopimus-paikkatieto.maanmittauslaitos.fi/kiinteisto-avoin/simple-features/v3
 
